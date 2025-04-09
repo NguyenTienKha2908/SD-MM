@@ -1,5 +1,10 @@
 # SD-MM
-This is a repository for storage project module SD + MM
+This is a repository for storage project module SD + MM  
+- Using Fiori
+- SAP S/4HANA
+- User : LEARN-130
+- Server : 316
+- Using DB Global Bike Company
 
 Actor : Nguyen Tien Kha  
 Phone : 0369765129   
